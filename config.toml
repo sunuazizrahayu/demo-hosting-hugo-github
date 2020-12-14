@@ -1,0 +1,4 @@
+baseURL = "https://sunuazizrahayu.github.io/demo-blog-hugo-github/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ghostwriter"
